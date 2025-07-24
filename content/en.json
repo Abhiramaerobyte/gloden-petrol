@@ -1,0 +1,167 @@
+{
+  "site": {
+    "title": "Golden Petrol",
+    "description": "Premium petroleum products and services across the region"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "products": "Our Products",
+    "network": "Our Network",
+    "contact": "Contact Us",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "Premium Petroleum Solutions",
+      "subtitle": "Leading the industry with quality fuel and exceptional service across the region",
+      "cta": "Explore Our Services"
+    },
+    "features": [
+      {
+        "title": "Quality Fuel",
+        "description": "Premium grade petroleum products meeting international standards",
+        "icon": "fuel"
+      },
+      {
+        "title": "Wide Network",
+        "description": "Extensive network of stations providing convenient access nationwide",
+        "icon": "network"
+      },
+      {
+        "title": "24/7 Service",
+        "description": "Round-the-clock service ensuring you're never left stranded",
+        "icon": "clock"
+      }
+    ],
+    "stats": [
+      {
+        "number": "150+",
+        "label": "Service Stations"
+      },
+      {
+        "number": "25+",
+        "label": "Years Experience"
+      },
+      {
+        "number": "1M+",
+        "label": "Satisfied Customers"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Golden Petrol",
+    "subtitle": "Excellence in Petroleum Services Since 1998",
+    "content": "Golden Petrol has been at the forefront of the petroleum industry for over two decades. We are committed to providing premium quality fuel and exceptional customer service across our extensive network of service stations. Our dedication to excellence and innovation has made us a trusted name in the industry.",
+    "mission": "To provide premium petroleum products and services while maintaining the highest standards of safety and environmental responsibility.",
+    "vision": "To be the leading petroleum company in the region, known for quality, reliability, and customer satisfaction.",
+    "values": [
+      "Quality Excellence",
+      "Customer Focus",
+      "Environmental Responsibility",
+      "Innovation",
+      "Integrity"
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive petroleum solutions for all your needs",
+    "items": [
+      {
+        "title": "Fuel Retail",
+        "description": "Premium gasoline and diesel fuel available at all our service stations with quality guarantee.",
+        "features": ["Premium Grade Fuel", "Quality Tested", "Competitive Pricing", "Quick Service"]
+      },
+      {
+        "title": "Commercial Fleet",
+        "description": "Dedicated fuel solutions for commercial vehicles with bulk pricing and fleet management.",
+        "features": ["Bulk Pricing", "Fleet Cards", "24/7 Support", "Delivery Service"]
+      },
+      {
+        "title": "Lubricants",
+        "description": "Complete range of automotive lubricants and oils for optimal engine performance.",
+        "features": ["Engine Oils", "Transmission Fluids", "Brake Fluids", "Coolants"]
+      },
+      {
+        "title": "Car Wash",
+        "description": "Professional car washing and detailing services at selected locations.",
+        "features": ["Exterior Wash", "Interior Cleaning", "Wax Protection", "Quick Service"]
+      }
+    ]
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Premium petroleum products for every vehicle",
+    "categories": [
+      {
+        "name": "Gasoline",
+        "products": [
+          {
+            "name": "Golden Premium 95",
+            "description": "High-octane premium gasoline for enhanced performance",
+            "features": ["95 Octane Rating", "Enhanced Performance", "Engine Protection", "Fuel Efficiency"]
+          },
+          {
+            "name": "Golden Regular 91",
+            "description": "Standard gasoline for everyday driving needs",
+            "features": ["91 Octane Rating", "Reliable Performance", "Cost-Effective", "Wide Availability"]
+          }
+        ]
+      },
+      {
+        "name": "Diesel",
+        "products": [
+          {
+            "name": "Golden Diesel",
+            "description": "High-quality diesel fuel for commercial and personal vehicles",
+            "features": ["Low Sulfur Content", "Enhanced Lubricity", "Fuel Economy", "Engine Longevity"]
+          }
+        ]
+      }
+    ]
+  },
+  "network": {
+    "title": "Our Network",
+    "subtitle": "Find Golden Petrol stations near you",
+    "regions": [
+      {
+        "name": "Central Region",
+        "stations": 45,
+        "cities": ["Riyadh", "Al Kharj", "Al Majma'ah", "Shaqra"]
+      },
+      {
+        "name": "Eastern Region",
+        "stations": 38,
+        "cities": ["Dammam", "Khobar", "Dhahran", "Jubail"]
+      },
+      {
+        "name": "Western Region",
+        "stations": 42,
+        "cities": ["Jeddah", "Mecca", "Taif", "Yanbu"]
+      },
+      {
+        "name": "Northern Region",
+        "stations": 25,
+        "cities": ["Tabuk", "Arar", "Hail", "Sakaka"]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "info": {
+      "phone": "+966 11 123 4567",
+      "email": "info@goldenpetrol.com",
+      "address": "Golden Petrol Tower, King Fahd Road, Riyadh 12345, Saudi Arabia",
+      "hours": "24/7 Customer Service"
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  }
+}
